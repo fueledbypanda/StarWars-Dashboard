@@ -1,0 +1,73 @@
+.box {
+    display: flex;
+    flex-direction: row ;
+    flex
+}
+
+.films {
+    flex: 1 1 auto;
+  }
+
+.people {
+    flex: 1 1 auto;
+  }
+
+.starships {
+    flex: 1 1 auto;
+  }
+  
+.vehicles {
+    flex: 1 1 auto;
+}
+.card-title {
+    font-size: x-large;
+}
+
+.card-text {
+    font-size: medium;
+}
+
+.top {
+    font-family: fantasy;
+    font-size: 300%;
+}
+
+#searchbar1{ 
+    margin-left: 15%; 
+    padding:15px; 
+    border-radius: 10px; 
+  } 
+  #searchbar2{ 
+    margin-left: 15%; 
+    padding:15px; 
+    border-radius: 10px; 
+  } 
+  #searchbar3{ 
+    margin-left: 15%; 
+    padding:15px; 
+    border-radius: 10px; 
+  } 
+  #searchbar4{ 
+    margin-left: 15%; 
+    padding:15px; 
+    border-radius: 10px; 
+  } 
+
+
+  input[type=text] { 
+     width: 30%; 
+     -webkit-transition: width 0.15s ease-in-out; 
+     transition: width 0.15s ease-in-out; 
+  } 
+
+  input[type=text]:focus { 
+    width: 70%; 
+  } 
+
+ #list{ 
+   font-size:  1.5em; 
+   margin-left: 90px; 
+  } 
+.displayNumber{
+    font-size: small;
+}
